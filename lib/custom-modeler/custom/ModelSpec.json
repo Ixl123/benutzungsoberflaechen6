@@ -1,0 +1,35 @@
+[ {
+  "name": "CustomStuff",
+  "uri": "http://custom",
+  "prefix": "custom",
+  "types": [
+    {
+      "name": "batman",
+      "properties": [
+        { "name": "name", "type": "String", "isAttr": true, "default": "Unnamed Batman" },
+        { "name": "documentation", "type": "String", "isAttr": true, "default": "Some documentation" }
+      ]
+    },
+    {
+      "name": "hska",
+      "properties": [
+        { "name": "name", "type": "String", "isAttr": true, "default": "Unnamed HsKA" },
+        { "name": "documentation", "type": "String", "isAttr": true, "default": "Some documentation" }
+      ]
+    },
+    {
+      "name": "triangle",
+      "properties": [
+        { "name": "name", "type": "String", "isAttr": true, "default": "Unnamed Triangle" },
+        { "name": "documentation", "type": "String", "isAttr": true, "default": "Some documentation" }
+      ]
+    },
+    {
+      "name": "circle",
+      "properties": [
+        { "name": "name", "type": "String", "isAttr": true, "default": "Unnamed Circle" },
+        { "name": "documentation", "type": "String", "isAttr": true, "default": "Some documentation" }
+      ]
+    }
+  ]
+} ]

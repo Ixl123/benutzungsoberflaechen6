@@ -1,0 +1,36 @@
+<html>
+  <head>
+      <link rel="stylesheet" href="styles.css" />
+      <link rel="stylesheet" href="awesomplete-1.1.0/awesomplete.css" />
+      <style type="text/css">
+        html, body, #canvas, #canvas > div {
+          height: 100%;
+        }
+        .icon-custom-batman {
+          background: url('batman.svg');
+          background-position: center;
+        }
+        .icon-custom-hska {
+          background: url('hska.gif');
+          background-size: cover;
+        }
+        .icon-custom-triangle {
+          background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" fill="#3CAA82" width="270" height="240"><path d="M8,40 l 15,-27 l 15,27 z"/></svg>');
+        }
+        .icon-custom-circle {
+          background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" stroke-width="8" stroke="#48a" fill="none" viewBox="0 0 120 120"><circle cx="60" cy="60" r="40"/></svg>');
+        }
+        .djs-palette .entry img {
+            height: 100%;
+        }
+      </style>
+  </head>
+  <body>
+    <div class="modeler">
+      <div id="canvas"></div>
+      <div id="properties"></div>
+    </div>
+    <script src="built.js"></script>
+    <script src="awesomplete-1.1.0/awesomplete.js"></script>
+  </body>
+</html>

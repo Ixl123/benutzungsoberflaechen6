@@ -1,0 +1,62 @@
+{
+  "user_service": {
+    "query": "",
+    "users": [
+      {
+        "id": "6a315a34-c1ae-4dcb-b17f-ad748c4df1e9",
+        "number": 10001,
+        "name": "Berger, Hans"
+      },
+      {
+        "id": "96010f02-bb12-4947-af20-5f8bc0ad8d75",
+        "number": 10002,
+        "name": "Carter, Peter"
+      },
+      {
+        "id": "e45434d2-c108-4133-be72-9880c36afd0d",
+        "number": 10003,
+        "name": "Hammer, Dan"
+      },
+      {
+        "id": "0f9b4e32-6f12-4da9-a4b5-335be4ec00b9",
+        "number": 10004,
+        "name": "Heiler, Stephan"
+      },
+      {
+        "id": "c6f421bd-1856-4ffb-a513-81f100cafbbe",
+        "number": 10005,
+        "name": "Meier, Peter"
+      },
+      {
+        "id": "271804e5-4b9c-4ea3-8bc9-62613abb7ceb",
+        "number": 10006,
+        "name": "Messer, Gerhard"
+      },
+      {
+        "id": "9cf1f4f5-da5e-4c0f-9f24-a571eb73925e",
+        "number": 10007,
+        "name": "Moll, Stefan"
+      },
+      {
+        "id": "c4c6ad4c-2a2d-45aa-bff1-343d8dd45f1f",
+        "number": 10008,
+        "name": "Perry, John"
+      },
+      {
+        "id": "e33347ff-e9c9-4c7c-b249-da541dda0d81",
+        "number": 10009,
+        "name": "Pohl, Dieter"
+      },
+      {
+        "id": "949b8953-91a2-400d-8e2b-1793e80e2a37",
+        "number": 10010,
+        "name": "Steglitz, Karl-Heinz"
+      },
+      {
+        "id": "263bd26d-9846-42e7-8bf0-c337d14a8932",
+        "number": 10011,
+        "name": "Vongerichten, Fritz"
+      }
+    ]
+  }
+}

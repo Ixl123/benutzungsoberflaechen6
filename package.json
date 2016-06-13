@@ -1,0 +1,23 @@
+{
+  "name": "bpmn-js-hska",
+  "version": "1.0.0",
+  "description": "Lets processes fly!",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify -t brfs lib/main.js -o built.js -d",
+    "styles": "lessc styles.less styles.css"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "brfs": "^1.4.1",
+    "browserify": "^13.0.0"
+  },
+  "dependencies": {
+    "bpmn-js": "^0.14.0",
+    "bpmn-js-properties-panel": "^0.6.2",
+    "diagram-js": "^0.14.0",
+    "inherits": "^2.0.1",
+    "less": "^2.6.1"
+  }
+}
