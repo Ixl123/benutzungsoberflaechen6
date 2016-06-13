@@ -1,3 +1,4 @@
+
 # bpmn-js-hska
 
 This is a small bpmn-extension which adds a dancing-cat element to the bpmn-modeler.
@@ -18,3 +19,7 @@ Changed files:
 * `bpmn-js-/properties-panel/lib/factory/AutoCompleteEntryFactory.js`
 * `bpmn-js-/properties-panel/lib/factory/EntryFactory.js`
 * `bpmn-js-/properties-panel/lib/provider/camunda/parts/UserTaskProps.js`
+
+# benutzungsoberflaechen6
+Benutzungsoberflächen Labor Aufgabe 6
+
